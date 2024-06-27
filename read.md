@@ -1,2 +1,2 @@
 ### Teste
-- para o nosso repo
+- para o nosso repositório
