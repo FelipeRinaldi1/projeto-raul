@@ -1,3 +1,10 @@
+<p align="center">
+  <a href="#1-catálogo-de-pets-personalizado">
+    <img src="https://github.com/FelipeRinaldi1/projeto-raul/assets/76639977/291dcecb-b75f-4354-a37a-f0ad38392e62" alt="Imagem do SmartPark" width="200">
+    <h1 align="center">SmartPark: Programa para organizar seu estacionamento</h1>
+  </a>
+</p>
+
 ## Estacionamento Inteligente 🅿️🚗
 
 ### Descrição:
